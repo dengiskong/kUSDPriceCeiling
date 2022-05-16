@@ -1,3 +1,3 @@
-# kUSD PRrice Ceiling
+# kUSD Price Ceiling
 
 Live Demo: https://kusdpriceceiling.netlify.app
