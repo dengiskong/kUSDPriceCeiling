@@ -30,10 +30,15 @@ export default function Navbar() {
 
   return (
     <nav className="bg-gray-800 h-14 flex items-center px-10 justify-between">
-      <div className="flex-1 space-x-4">
-        <a href="#!" className="font-bold text-blue-500 pr-6">
+      <div>
+      <div className="flex items-center space-x-4">
+        <a href="#!" className="font-bold text-blue-500">
           kUSD Price Ceiling
         </a>
+        <div>
+        <img class="inline" src="logo45.png" alt="Logo"></img>
+        </div>
+        </div>
       </div>
       <div>
         <button
